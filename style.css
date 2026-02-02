@@ -1,0 +1,15 @@
+.para-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+ 
+}
+.para{
+    width: 50%;
+  padding: 20px 70px;
+}
+.image{
+    width: 50%;
+   
+}
